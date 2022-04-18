@@ -1,0 +1,32 @@
+header{
+    background-color: #101414;
+}
+body{
+    background-color: beige;
+}
+
+.card{
+    text-align: center;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.btn{
+    background-color: skyblue;
+    color: gray;
+}
+
+table{
+    background-color: whitesmoke;
+}
+
+footer{
+    background-color: #101414;
+}
+
+#tablea{
+    background-color: #101414;
+}
+
+
+
