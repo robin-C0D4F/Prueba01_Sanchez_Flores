@@ -22,3 +22,22 @@ hr{
     size: 50px;
 }
 
+.textprof{
+    margin: left;
+}
+
+.centrartxt{
+    text-align: center;
+}
+
+.approv{
+    text-align: center;
+}
+
+.justify{
+    text-align: justify;
+}
+
+.txt-right{
+    text-align: right;
+}
