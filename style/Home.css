@@ -1,0 +1,51 @@
+header{
+    background-color: #101414;
+}
+body{
+    background-color: #f5f5dc;
+}
+.foot{
+    padding: 30px;
+    background-color: #101414;
+    margin: 0;
+    text-align: center;
+}
+.carousel-item{
+    background-color: #101414;
+    color: #ffffff;
+}
+
+.carousel{
+    border-radius: 10px;
+}
+
+.image-align{
+    display: center;
+    margin: 10;
+}
+
+.section{
+    border: 5px #000000;
+    height: 90vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.blocks{
+    border: 20px black;
+    max-width: 700px;
+    width: 100%;
+    margin: auto;
+    background-color: #101414;
+    border-radius: 10px;
+    padding: 150px;
+    color: white;
+
+
+    height: 50hv;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+

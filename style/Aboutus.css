@@ -1,0 +1,20 @@
+header{
+    background-color: #101414;
+}
+body{
+    background-color: #f5f5dc;
+    text-align: center;
+}
+.back{
+    background-color: #101414;
+    padding: 100px;
+    border: 10px #fad5ab;
+    border-radius: 10px;
+    margin: 10px;
+}
+.foot{
+    padding: 30px;
+    background-color: #101414;
+    margin: 0;
+    text-align: center;
+}

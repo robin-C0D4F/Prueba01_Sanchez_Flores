@@ -1,0 +1,13 @@
+header{
+    background-color: #101414;
+}
+body{
+    background-color: beige;
+}
+.back{
+    background-color: #101414;
+    padding: 100px;
+    border: 10px #101414;
+    border-radius: 10px;
+    margin: 10px;
+}
